@@ -38,3 +38,5 @@ docker build -t mern-backend .
 
 `docker compose up -d`
 
+Images on Docker Hub:
+https://hub.docker.com/repository/docker/abdallahmostafa02/dockerized-mern-app/tags
