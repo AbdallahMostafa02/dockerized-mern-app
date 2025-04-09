@@ -1,4 +1,4 @@
-# A simple MERN stack application 
+# Containerizing and Deploying a MERN Stack Application with Docker Compose 
 
 ### Create a network for the docker containers
 
